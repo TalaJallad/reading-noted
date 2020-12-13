@@ -18,9 +18,14 @@
    * *The Growth Mindset* :chart_with_upwards_trend: 
       
       - First of all, let's explain what a "mindset" is: It is the way you perceive things in the world around you; how you feel and think about things. 
-         - The Second thing you need to know is that we have **2 types** of mindsets: 
+      - The Second thing you need to know is that we have **2 types** of mindsets: 
+       
         ![](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
-     
+        
+        
+        Fixed Mindset  | Growth Mindset
+       ----------------|---------------
+       Hello
      
   
   
