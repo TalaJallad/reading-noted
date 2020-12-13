@@ -23,9 +23,9 @@
         ![](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
         
         
-        Fixed Mindset  | Growth Mindset
-       ----------------|---------------
-       Hello
+        Fixed Mindset | Growth Mindset
+       -------------- | --------------
+       
      
   
   
