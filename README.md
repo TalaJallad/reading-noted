@@ -1,5 +1,4 @@
- # Diary of a soon-to-be-Programmer 
-
+ # My Journey in Software Development
     by Tala Jallad
     
    ## Who am I?
