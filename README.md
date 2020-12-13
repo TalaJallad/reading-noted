@@ -42,7 +42,7 @@
         
         :pushpin: When I face an obstacle, I will focus on sloving it instead of feeling down
         
-        :pushpin: I will reflect on my day by asking myself these questions: Did you achieve your all your goals for the day? What obstacles did you face? how did you overcome them? how can you prevent them in the future? What are the highlights of your day? 
+        :pushpin: I will reflect on my day by asking myself these questions: Did you achieve your all your goals for the day? What obstacles did you face? how did you overcome                     them? how can you prevent them in the future? What are the highlights of your day? 
          
       
        
