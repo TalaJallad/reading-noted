@@ -23,8 +23,10 @@
         ![](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
         
         
-        Fixed Mindset | Growth Mindset
-       -------------- | --------------
+        **Fixed Mindset** | **Growth Mindset**
+        ------------- | --------------
+        Imbraces challenges | Dislikes challenges
+        Sees failings as learning opportunites |  Failings means he/she are incompetent
        
      
   
