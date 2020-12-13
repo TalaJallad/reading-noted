@@ -27,9 +27,9 @@
         ------------- | --------------
         Embraces challenges | Dislikes challenges
         Sees failings as learning opportunites |  Failings means he/she are incompetent
-       Hard worker and resilient | Lazy and a quitter
-       Welcomes criticism and uses it to grow | Doesn't care for criticism 
-       Inspired by successful people | Threatened by succssesful people
+        Hard worker and resilient | Lazy and a quitter
+        Welcomes criticism and uses it to grow | Doesn't care for criticism 
+        Inspired by successful people | Threatened by succssesful people
        
         
        
