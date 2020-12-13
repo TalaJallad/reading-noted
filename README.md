@@ -20,13 +20,18 @@
       - First of all, let's explain what a "mindset" is: It is the way you perceive things in the world around you; how you feel and think about things. 
       - The Second thing you need to know is that we have **2 types** of mindsets: 
        
-        ![](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
+        ![](https://image.freepik.com/free-vector/big-brain-think-growth-mindset-different-fixed-mindset-concept_101179-721.jpg)
         
         
-        **Fixed Mindset** | **Growth Mindset**
+        **Growth Mindset** | **Fixed Mindset**
         ------------- | --------------
-        Imbraces challenges | Dislikes challenges
+        Embraces challenges | Dislikes challenges
         Sees failings as learning opportunites |  Failings means he/she are incompetent
+       Hard worker and resilient | Lazy and a quitter
+       Welcomes criticism and uses it to grow | Doesn't care for criticism 
+       Inspired by successful people | Threatened by succssesful people
+       
+        
        
      
   
