@@ -18,7 +18,7 @@
    * *The Growth Mindset* :chart_with_upwards_trend: 
       
       - First of all, let's explain what a "mindset" is: It is the way you perceive things in the world around you; how you feel and think about things. 
-        -Second thing you need to know is that we have **2 types** of mindsets: 
+         - Second thing you need to know is that we have **2 types** of mindsets: 
         
         ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brainpickings.org%2F2014%2F01%2F29%2Fcarol-dweck-mindset%2F&psig=AOvVaw3CTLWl2vTxs0t5FXfetO2r&ust=1607981337285000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiX973zy-0CFQAAAAAdAAAAABAD) 
       
