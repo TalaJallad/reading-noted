@@ -30,6 +30,14 @@
         Lazy and a quitter | Hard worker and resilient 
         Doesn't care for criticism | Welcomes criticism and uses it to grow
         Threatened by succssesful people | Inspired by successful people
+        
+      - Conclusion:
+      
+      We all had the fixed mindset at a certain point in our lives, and maybe some of us currently has have it, so what should we do? 
+      We need to utilize ways that enable us to shift to a growth mindset. One of the best ways to this is through being self awaren. That means you need to always question yourself, review your actions and decisions and ask for feedback. One great habit you can adopt is that at end of each day, you take some time to reflect on your highlights and lows, your achievements and failings and figure out how to prevent the same failures or lows in the future.
+      
+         - The follwing are some methods that I will follow daily to acquire a growth a mindset:
+      
        
         
        
