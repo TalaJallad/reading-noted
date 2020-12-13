@@ -19,9 +19,8 @@
       
       - First of all, let's explain what a "mindset" is: It is the way you perceive things in the world around you; how you feel and think about things. 
          - The Second thing you need to know is that we have **2 types** of mindsets: 
-        
-       ![Types of mindsets](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.muhlsdk12.org%2Fcms%2Flib%2FPA01916549%2FCentricity%2FDomain%2F225%2Fgrowth%2520mindset.JPG&imgrefurl=https%3A%2F%2Fwww.muhlsdk12.org%2FPage%2F1175&tbnid=BUwYomkL8umHDM&vet=12ahUKEwj_48q088vtAhXB0aQKHeYCBXIQMygJegUIARDfAQ..i&docid=wsAW3M3tMfgpCM&w=300&h=251&q=growth%20mindset&safe=active&ved=2ahUKEwj_48q088vtAhXB0aQKHeYCBXIQMygJegUIARDfAQ)  
-      
+        ![](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
+     
      
   
   
