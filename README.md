@@ -38,13 +38,13 @@
       We all had the fixed mindset at a certain point in our lives, and maybe some of us currently has have it, so what should we do? 
       We need to utilize ways that enable us to shift to a growth mindset. One of the best ways to this is through being self awaren. That means you need to always question yourself, review your actions and decisions and ask for feedback. One great habit you can adopt is that at end of each day, you take some time to reflect on your highlights and lows, your achievements and failings and figure out how to prevent the same failures or lows in the future.
       
-        * The follwing are the things that I will do daily to acquire a growth a mindset:
+         * The follwing are the things that I will do daily to acquire a growth a mindset:
          
-        :pushpin: Create a to do list that includes the goals i Want to achieve in each day
+        - Create a to do list that includes the goals i Want to achieve in each day
         
-        :pushpin: When I face an obstacle, I will focus on sloving it instead of feeling down
+        - When I face an obstacle, I will focus on sloving it instead of feeling down
         
-        :pushpin: I will reflect on my day by asking myself these questions: Did you achieve your all your goals for the day? What obstacles did you face? how did you overcome                     them? how can you prevent them in the future? What are the highlights of your day? 
+        - I will reflect on my day by asking myself these questions: Did you achieve your all your goals for the day? What obstacles did you face? how did you overcome                     them? how can you prevent them in the future? What are the highlights of your day? 
         
         
        
