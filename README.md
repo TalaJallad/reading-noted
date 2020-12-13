@@ -1,4 +1,4 @@
- # Diary of a Newborn Programmer 
+ # Diary of a Fresh Programmer 
 
     by Tala Jallad
     
