@@ -23,13 +23,13 @@
         ![](https://image.freepik.com/free-vector/big-brain-think-growth-mindset-different-fixed-mindset-concept_101179-721.jpg)
         
         
-        **Growth Mindset** | **Fixed Mindset**
+        **Fixed Mindset** | **Growth Mindset**
         ------------- | --------------
-        Embraces challenges | Dislikes challenges
-        Sees failings as learning opportunites |  Failings means he/she are incompetent
-        Hard worker and resilient | Lazy and a quitter
-        Welcomes criticism and uses it to grow | Doesn't care for criticism 
-        Inspired by successful people | Threatened by succssesful people
+        Dislikes challenges | Embraces challenges 
+        Failings means he/she are incompetent | Sees failings as learning opportunites 
+        Lazy and a quitter | Hard worker and resilient 
+        Doesn't care for criticism | Welcomes criticism and uses it to grow
+        Threatened by succssesful people | Inspired by successful people
        
         
        
