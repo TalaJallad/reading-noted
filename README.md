@@ -1,4 +1,4 @@
- # Dear Dairy...
+ # Diary of a programmer in the making
 
     by Tala Jallad
     
