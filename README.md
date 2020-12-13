@@ -15,7 +15,7 @@
    
    Today was a very intensive to say the least. And to be hones, I don't think I have ever been overwhelmed as I was today. A huge part of my frsutration today can be attributed to the fact that, during the installation part, my windows did me wrong and took about 6 hours to update!! Of course near the end my laptop's battery ran out and the installation data was lost! and this when I lost it! However, one thing kept going till this moment and that is someting our instructor @thamudi talked about and that is **The Growth Mindset!**
    
-  #### Let me tell you a bit about #*The Growth Mindset*# :chart_with_upwards_trend: 
+  #### Let me tell you a bit about *The Growth Mindset* :chart_with_upwards_trend: 
    
    
      
