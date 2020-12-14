@@ -27,7 +27,7 @@
 
 
      **Fixed Mindset** | **Growth Mindset**
-       ------------- | --------------
+       -------------   | --------------
        Dislikes challenges | Embraces challenges 
        Failings means he/she are incompetent | Sees failings as learning opportunites 
        Lazy and a quitter | Hard worker and resilient 
