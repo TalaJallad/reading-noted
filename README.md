@@ -50,6 +50,12 @@ Just like that we have rached the end of my day. It was eye-opening in many ways
 
 **You can find my profile on GitHub through this [link](https://github.com/TalaJallad)** 
 
+**My contact information**
+
+Phone: 0798321274
+E-mail: talajallad@yahoo.com
+
+
 
 
 
