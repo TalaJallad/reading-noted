@@ -27,6 +27,8 @@ Lazy and a quitter | Hard worker and resilient
 Doesn't care for criticism | Welcomes criticism and uses it to grow
 Threatened by succssesful people | Inspired by successful people
 
+
+
 - How to acquire a growth mindset:
 
 We all had the fixed mindset at a certain point in our lives, and maybe some of us currently has have it, so what should we do? 
