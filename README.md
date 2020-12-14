@@ -13,8 +13,8 @@ Today was  very intensive to say the least. And to be hones, I don't think I hav
 
 * *The Growth Mindset* 
 
-- First of all, let's explain what a **"mindset"** is: It is the way you perceive things in the world around you; how you feel and think about things. 
-- The Second thing you need to know is that we have **2 types** of mindsets: 
+* First of all, let's explain what a **"mindset"** is: It is the way you perceive things in the world around you; how you feel and think about things. 
+* The Second thing you need to know is that we have **2 types** of mindsets: 
 
 ![](https://image.freepik.com/free-vector/big-brain-think-growth-mindset-different-fixed-mindset-concept_101179-721.jpg)
 
@@ -46,7 +46,7 @@ We need to utilize ways that enable us to shift to a growth mindset. One of the 
 Just like that we have rached the end of my day. It was eye-opening in many ways and I look forward to the coming days, to new stories and learning, and to watching my self grow professionally and personally!
 
 
-**You can find my profile on GitHub through this [link](https://github.com/TalaJallad)!**
+**You can find my profile on GitHub through this link:** https://github.com/TalaJallad
 
 
 
