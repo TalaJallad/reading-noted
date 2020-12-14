@@ -41,7 +41,7 @@
       
         ***The follwing are the things that I will do daily to acquire a growth a mindset:***  
          
-        \1. Create a to do list that includes the goals i Want to achieve in each day
+        1. Create a to do list that includes the goals i Want to achieve in each day
         
         \2. When I face an obstacle, I will focus on sloving it instead of feeling down
         
