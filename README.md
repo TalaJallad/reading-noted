@@ -40,7 +40,7 @@ We need to utilize ways that enable us to shift to a growth mindset. One of the 
 
 -When I face an obstacle, I will focus on sloving it instead of feeling down
 
--I will reflect on my day by asking myself these questions: Did you achieve your all your goals for the day? What obstacles did you face? how did you overcome                     them? how can you prevent them in the future? What are the highlights of your day? 
+-I will reflect on my day by asking myself these questions: *Did you achieve your all your goals for the day? What obstacles did you face? How did you overcome                     them? How can you prevent them in the future? What are the highlights of your day?*
 
 
 * The End:
