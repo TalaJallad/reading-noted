@@ -48,7 +48,7 @@
         -I will reflect on my day by asking myself these questions: Did you achieve your all your goals for the day? What obstacles did you face? how did you overcome                     them? how can you prevent them in the future? What are the highlights of your day? 
         
         
-     * The End:
+   * The End:
      
      Just like that we have rached the end of my day. It was eye-opening in many ways and I look forward to the coming day!
          
