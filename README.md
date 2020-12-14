@@ -48,7 +48,7 @@ We need to utilize ways that enable us to shift to a growth mindset. One of the 
 Just like that we have rached the end of my day. It was eye-opening in many ways and I look forward to the coming days, to new stories and learning, and to watching my self grow professionally and personally!
 
 
-**You can find my profile on GitHub through this [link](https://github.com/TalaJallad)** 
+**You can find my profile on GitHub through this [link](https://github.com/TalaJallad)!** 
 
 **My contact information:**
 
