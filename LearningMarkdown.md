@@ -13,14 +13,14 @@ It is a very simple tool; writing in it is similar to writing in a normal notebo
 Symbol | Function
 ----------- | --------
 ** ** | Bold
-* * | Italics
-- | Bullet point for unordered lists
-*** *** | All text is in bold and italics
-~ ~ | Strike through          
+/ * * | Italics
+/ - | Bullet point for unordered lists
+/ *** *** | All text is in bold and italics
+/ ~ ~ | Strike through          
 
 
-To add an image, you can use the following code: ![image description](image link)
-To link a text, you can use this code: [text to be linked](link)
+To add an image, you can use the following code: / ![image description] (image link)
+To link a text, you can use this code: / [text to be linked] (link)
 
 *You can find more codes [here](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax).*
 
