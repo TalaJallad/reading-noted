@@ -15,7 +15,7 @@ Symbol | Function
 ** ** | Bold
 / * * | Italics
 / - | Bullet point for unordered lists
-/ *** *** | All text is in bold and italics
+\ *** *** | All text is in bold and italics
 / ~ ~ | Strike through          
 
 
