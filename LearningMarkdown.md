@@ -26,6 +26,21 @@ To link a text, you can use this code: \[text to be linked] (link)
 
 ## 2. GitHub Pages
 
+In this section, I learned how to render my markdown page to the web using GitHub. 
+
+The follwing are the steps to do so:
+
+1. Save your current repo in your [GitHuB](https://github.com/) account.
+2. Go to setting on the top right of your repo. 
+3. Scroll down to GitHub Pages.
+4. In the source section, change the 'Branch' to main and the folder next it to 'root' and save.
+5. You can choose a theme for your web page in the theme chooser. 
+6. Click the page link shown in green in under the GitHub Pages headling. 
+
+Your page is ready! 
+
+**These are the most basic learnings the acquired in this class.**
+
 
  
 
