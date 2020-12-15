@@ -13,7 +13,7 @@ It is a very simple tool; writing in it is similar to writing in a normal notebo
 Symbol | Function
 ----------- | --------
 ** ** | Bold
-/ * * | Italics
+\* \* | Italics
 / - | Bullet point for unordered lists
 \ *** *** | All text is in bold and italics
 / ~ ~ | Strike through          
