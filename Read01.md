@@ -6,7 +6,7 @@ It is a light weight markup languaage. This means it renders text into the brows
 * It is used for generating HTML files because it lighter than MS Word or Google Docs for instance.
 * It is used for writing instruction manuals for progrmas. i.e. documentation.
 ### 1.3 How do we name  Markdown files?
-We dan add any name to the file followed by the extension **.md.** It is preferred to name HTML file in GitHub as README.md or index.md so it is redered into the web page automatically. 
+We dan add any name to the file followed by the extension **.md** It is preferred to name HTML file in GitHub as README.md or index.md so it is redered into the web page automatically. 
 ### 1.4 How to use Markdown?
 It is a very simple tool; writing in it is similar to writing in a normal notebook. The only difference is that when you want to design your text, you will need to use special symbols. Here are the most basic ones: 
 
