@@ -4,7 +4,7 @@
 2. Git is saves snapshots or 'versions' of our work and this one of its benefits. 
 3. Through Git, we can connect between our local work and the cloud.
 4. I learned about the process a file or directory goes through in Git:
-![] (https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
+![](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
 
 
