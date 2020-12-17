@@ -13,6 +13,8 @@ And as someone who enjoys a good challenge, I consider the ASAC software develop
 * [Read 03](Read03.md)
 * [Read 04](Read04.md)
 * [Read 05](Read05.md)
+* [Read 06-a](Read06a)
+* [Read 06-b] ()
 
 ## My contact information:
 
