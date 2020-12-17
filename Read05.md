@@ -39,12 +39,6 @@ h2 {
  3. Typer Selector: it is similar to the rule in section 3; we just add the tag we are targetting. We can target multiple tags at once by separating them with commas. 
                   
 4. Id Selector: this attributes is used to easily select a certain element by naming it which makes it more specific. 
-*Example:* 
-In HTML: 
-
-/<h1 id="maintitle"> Hello World /<\h1>
-In CSS: 
-/h1 /#maintiltle {.....}
 
 **These are the selectors that have been coverd in class so far, more selectors can be found in chapter 10 in this [book](https://slack-files.com/files-pri-safe/TNGRRLUMA-F01H75KA5J5/html_css.pdf?c=1608029796-3393f4231711ec5d).** 
 
